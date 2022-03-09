@@ -1,7 +1,7 @@
-## Timer_For_Toastmaster
+# Timer_For_Toastmaster
 Building this tool for the timer role at toastmaster
 
-# COMPONENTS AND SUPPLIES
+### COMPONENTS AND SUPPLIES
 1. Arduino Uno Rev3
 2. 4-digit 7-segment display
 3. 4 push buttons 
